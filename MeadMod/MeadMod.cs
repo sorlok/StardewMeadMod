@@ -18,6 +18,14 @@ using Storm.StardewValley.Accessor;
 using Microsoft.Xna.Framework;
 
 
+
+////////////////////////////////////////////////////////////////////////
+// WARNING: You will need to use commit 6953a76994f98760 of the Storm library
+//          to compile this mod; Storm is currently undergoing a re-write.
+////////////////////////////////////////////////////////////////////////
+
+
+
 //Putting your mod in its own namespace is a great idea!
 namespace MeadMod
 {

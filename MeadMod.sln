@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadMod", "MeadMod\MeadMod.csproj", "{E3C8607F-F26E-4493-A88A-BD70204D2A8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadMod", "MeadMod\MeadMod.csproj", "{C3198378-CF20-4F1B-98B4-01BFA508701C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -39,7 +39,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="StormLoader">
-      <HintPath>..\..\Storm\Storm\bin\$(Configuration)\StormLoader.exe</HintPath>
+      <HintPath>..\..\Storm\Storm\Storm\bin\$(Configuration)\StormLoader.exe</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />

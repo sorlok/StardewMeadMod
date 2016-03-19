@@ -1,0 +1,8 @@
+{
+    "displayName": "Mead Mod by S'orlok Reaves",
+    "author": "Seth N. Hetu",
+    "version": "0.1",
+    "description": "Goes in %appdata% StardewValley/Mods/mead_mod with your dll.",
+
+    "assemblyFileName": "MeadMod.dll"
+}
